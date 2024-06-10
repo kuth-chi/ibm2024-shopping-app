@@ -1,2 +1,2 @@
-# ibm2024-shopping-app
+# Shopping App
 Shopping App create with React and build deployment to Github page.
