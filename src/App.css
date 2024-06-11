@@ -1,3 +1,7 @@
+/* Bootstrap icon import */
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+
 .App {
   text-align: center;
 }
